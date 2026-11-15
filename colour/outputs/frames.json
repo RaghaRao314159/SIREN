@@ -1,0 +1,1059 @@
+{
+  "fps": 30,
+  "schedule": "log",
+  "power": null,
+  "frame_count": 210,
+  "complete": true,
+  "frames": [
+    {
+      "file": "frame_0000.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0001.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0002.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0003.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0004.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0005.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0006.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0007.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0008.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0009.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0010.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0011.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0012.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0013.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0014.png",
+      "step": 0,
+      "hold": false
+    },
+    {
+      "file": "frame_0015.png",
+      "step": 1,
+      "hold": false
+    },
+    {
+      "file": "frame_0016.png",
+      "step": 1,
+      "hold": false
+    },
+    {
+      "file": "frame_0017.png",
+      "step": 1,
+      "hold": false
+    },
+    {
+      "file": "frame_0018.png",
+      "step": 1,
+      "hold": false
+    },
+    {
+      "file": "frame_0019.png",
+      "step": 1,
+      "hold": false
+    },
+    {
+      "file": "frame_0020.png",
+      "step": 1,
+      "hold": false
+    },
+    {
+      "file": "frame_0021.png",
+      "step": 1,
+      "hold": false
+    },
+    {
+      "file": "frame_0022.png",
+      "step": 1,
+      "hold": false
+    },
+    {
+      "file": "frame_0023.png",
+      "step": 2,
+      "hold": false
+    },
+    {
+      "file": "frame_0024.png",
+      "step": 2,
+      "hold": false
+    },
+    {
+      "file": "frame_0025.png",
+      "step": 2,
+      "hold": false
+    },
+    {
+      "file": "frame_0026.png",
+      "step": 2,
+      "hold": false
+    },
+    {
+      "file": "frame_0027.png",
+      "step": 2,
+      "hold": false
+    },
+    {
+      "file": "frame_0028.png",
+      "step": 2,
+      "hold": false
+    },
+    {
+      "file": "frame_0029.png",
+      "step": 3,
+      "hold": false
+    },
+    {
+      "file": "frame_0030.png",
+      "step": 3,
+      "hold": false
+    },
+    {
+      "file": "frame_0031.png",
+      "step": 3,
+      "hold": false
+    },
+    {
+      "file": "frame_0032.png",
+      "step": 3,
+      "hold": false
+    },
+    {
+      "file": "frame_0033.png",
+      "step": 3,
+      "hold": false
+    },
+    {
+      "file": "frame_0034.png",
+      "step": 4,
+      "hold": false
+    },
+    {
+      "file": "frame_0035.png",
+      "step": 4,
+      "hold": false
+    },
+    {
+      "file": "frame_0036.png",
+      "step": 4,
+      "hold": false
+    },
+    {
+      "file": "frame_0037.png",
+      "step": 5,
+      "hold": false
+    },
+    {
+      "file": "frame_0038.png",
+      "step": 5,
+      "hold": false
+    },
+    {
+      "file": "frame_0039.png",
+      "step": 5,
+      "hold": false
+    },
+    {
+      "file": "frame_0040.png",
+      "step": 5,
+      "hold": false
+    },
+    {
+      "file": "frame_0041.png",
+      "step": 6,
+      "hold": false
+    },
+    {
+      "file": "frame_0042.png",
+      "step": 6,
+      "hold": false
+    },
+    {
+      "file": "frame_0043.png",
+      "step": 7,
+      "hold": false
+    },
+    {
+      "file": "frame_0044.png",
+      "step": 7,
+      "hold": false
+    },
+    {
+      "file": "frame_0045.png",
+      "step": 7,
+      "hold": false
+    },
+    {
+      "file": "frame_0046.png",
+      "step": 8,
+      "hold": false
+    },
+    {
+      "file": "frame_0047.png",
+      "step": 8,
+      "hold": false
+    },
+    {
+      "file": "frame_0048.png",
+      "step": 9,
+      "hold": false
+    },
+    {
+      "file": "frame_0049.png",
+      "step": 9,
+      "hold": false
+    },
+    {
+      "file": "frame_0050.png",
+      "step": 10,
+      "hold": false
+    },
+    {
+      "file": "frame_0051.png",
+      "step": 10,
+      "hold": false
+    },
+    {
+      "file": "frame_0052.png",
+      "step": 11,
+      "hold": false
+    },
+    {
+      "file": "frame_0053.png",
+      "step": 12,
+      "hold": false
+    },
+    {
+      "file": "frame_0054.png",
+      "step": 12,
+      "hold": false
+    },
+    {
+      "file": "frame_0055.png",
+      "step": 13,
+      "hold": false
+    },
+    {
+      "file": "frame_0056.png",
+      "step": 14,
+      "hold": false
+    },
+    {
+      "file": "frame_0057.png",
+      "step": 14,
+      "hold": false
+    },
+    {
+      "file": "frame_0058.png",
+      "step": 15,
+      "hold": false
+    },
+    {
+      "file": "frame_0059.png",
+      "step": 16,
+      "hold": false
+    },
+    {
+      "file": "frame_0060.png",
+      "step": 17,
+      "hold": false
+    },
+    {
+      "file": "frame_0061.png",
+      "step": 18,
+      "hold": false
+    },
+    {
+      "file": "frame_0062.png",
+      "step": 19,
+      "hold": false
+    },
+    {
+      "file": "frame_0063.png",
+      "step": 20,
+      "hold": false
+    },
+    {
+      "file": "frame_0064.png",
+      "step": 21,
+      "hold": false
+    },
+    {
+      "file": "frame_0065.png",
+      "step": 22,
+      "hold": false
+    },
+    {
+      "file": "frame_0066.png",
+      "step": 23,
+      "hold": false
+    },
+    {
+      "file": "frame_0067.png",
+      "step": 24,
+      "hold": false
+    },
+    {
+      "file": "frame_0068.png",
+      "step": 26,
+      "hold": false
+    },
+    {
+      "file": "frame_0069.png",
+      "step": 27,
+      "hold": false
+    },
+    {
+      "file": "frame_0070.png",
+      "step": 29,
+      "hold": false
+    },
+    {
+      "file": "frame_0071.png",
+      "step": 30,
+      "hold": false
+    },
+    {
+      "file": "frame_0072.png",
+      "step": 32,
+      "hold": false
+    },
+    {
+      "file": "frame_0073.png",
+      "step": 33,
+      "hold": false
+    },
+    {
+      "file": "frame_0074.png",
+      "step": 35,
+      "hold": false
+    },
+    {
+      "file": "frame_0075.png",
+      "step": 37,
+      "hold": false
+    },
+    {
+      "file": "frame_0076.png",
+      "step": 39,
+      "hold": false
+    },
+    {
+      "file": "frame_0077.png",
+      "step": 41,
+      "hold": false
+    },
+    {
+      "file": "frame_0078.png",
+      "step": 43,
+      "hold": false
+    },
+    {
+      "file": "frame_0079.png",
+      "step": 45,
+      "hold": false
+    },
+    {
+      "file": "frame_0080.png",
+      "step": 47,
+      "hold": false
+    },
+    {
+      "file": "frame_0081.png",
+      "step": 50,
+      "hold": false
+    },
+    {
+      "file": "frame_0082.png",
+      "step": 52,
+      "hold": false
+    },
+    {
+      "file": "frame_0083.png",
+      "step": 55,
+      "hold": false
+    },
+    {
+      "file": "frame_0084.png",
+      "step": 58,
+      "hold": false
+    },
+    {
+      "file": "frame_0085.png",
+      "step": 61,
+      "hold": false
+    },
+    {
+      "file": "frame_0086.png",
+      "step": 64,
+      "hold": false
+    },
+    {
+      "file": "frame_0087.png",
+      "step": 67,
+      "hold": false
+    },
+    {
+      "file": "frame_0088.png",
+      "step": 71,
+      "hold": false
+    },
+    {
+      "file": "frame_0089.png",
+      "step": 74,
+      "hold": false
+    },
+    {
+      "file": "frame_0090.png",
+      "step": 78,
+      "hold": false
+    },
+    {
+      "file": "frame_0091.png",
+      "step": 82,
+      "hold": false
+    },
+    {
+      "file": "frame_0092.png",
+      "step": 86,
+      "hold": false
+    },
+    {
+      "file": "frame_0093.png",
+      "step": 90,
+      "hold": false
+    },
+    {
+      "file": "frame_0094.png",
+      "step": 95,
+      "hold": false
+    },
+    {
+      "file": "frame_0095.png",
+      "step": 100,
+      "hold": false
+    },
+    {
+      "file": "frame_0096.png",
+      "step": 105,
+      "hold": false
+    },
+    {
+      "file": "frame_0097.png",
+      "step": 110,
+      "hold": false
+    },
+    {
+      "file": "frame_0098.png",
+      "step": 116,
+      "hold": false
+    },
+    {
+      "file": "frame_0099.png",
+      "step": 121,
+      "hold": false
+    },
+    {
+      "file": "frame_0100.png",
+      "step": 128,
+      "hold": false
+    },
+    {
+      "file": "frame_0101.png",
+      "step": 134,
+      "hold": false
+    },
+    {
+      "file": "frame_0102.png",
+      "step": 141,
+      "hold": false
+    },
+    {
+      "file": "frame_0103.png",
+      "step": 148,
+      "hold": false
+    },
+    {
+      "file": "frame_0104.png",
+      "step": 155,
+      "hold": false
+    },
+    {
+      "file": "frame_0105.png",
+      "step": 163,
+      "hold": false
+    },
+    {
+      "file": "frame_0106.png",
+      "step": 171,
+      "hold": false
+    },
+    {
+      "file": "frame_0107.png",
+      "step": 180,
+      "hold": false
+    },
+    {
+      "file": "frame_0108.png",
+      "step": 189,
+      "hold": false
+    },
+    {
+      "file": "frame_0109.png",
+      "step": 198,
+      "hold": false
+    },
+    {
+      "file": "frame_0110.png",
+      "step": 208,
+      "hold": false
+    },
+    {
+      "file": "frame_0111.png",
+      "step": 219,
+      "hold": false
+    },
+    {
+      "file": "frame_0112.png",
+      "step": 230,
+      "hold": false
+    },
+    {
+      "file": "frame_0113.png",
+      "step": 241,
+      "hold": false
+    },
+    {
+      "file": "frame_0114.png",
+      "step": 253,
+      "hold": false
+    },
+    {
+      "file": "frame_0115.png",
+      "step": 266,
+      "hold": false
+    },
+    {
+      "file": "frame_0116.png",
+      "step": 279,
+      "hold": false
+    },
+    {
+      "file": "frame_0117.png",
+      "step": 293,
+      "hold": false
+    },
+    {
+      "file": "frame_0118.png",
+      "step": 308,
+      "hold": false
+    },
+    {
+      "file": "frame_0119.png",
+      "step": 323,
+      "hold": false
+    },
+    {
+      "file": "frame_0120.png",
+      "step": 340,
+      "hold": false
+    },
+    {
+      "file": "frame_0121.png",
+      "step": 357,
+      "hold": false
+    },
+    {
+      "file": "frame_0122.png",
+      "step": 374,
+      "hold": false
+    },
+    {
+      "file": "frame_0123.png",
+      "step": 393,
+      "hold": false
+    },
+    {
+      "file": "frame_0124.png",
+      "step": 413,
+      "hold": false
+    },
+    {
+      "file": "frame_0125.png",
+      "step": 433,
+      "hold": false
+    },
+    {
+      "file": "frame_0126.png",
+      "step": 455,
+      "hold": false
+    },
+    {
+      "file": "frame_0127.png",
+      "step": 478,
+      "hold": false
+    },
+    {
+      "file": "frame_0128.png",
+      "step": 502,
+      "hold": false
+    },
+    {
+      "file": "frame_0129.png",
+      "step": 527,
+      "hold": false
+    },
+    {
+      "file": "frame_0130.png",
+      "step": 553,
+      "hold": false
+    },
+    {
+      "file": "frame_0131.png",
+      "step": 581,
+      "hold": false
+    },
+    {
+      "file": "frame_0132.png",
+      "step": 610,
+      "hold": false
+    },
+    {
+      "file": "frame_0133.png",
+      "step": 640,
+      "hold": false
+    },
+    {
+      "file": "frame_0134.png",
+      "step": 672,
+      "hold": false
+    },
+    {
+      "file": "frame_0135.png",
+      "step": 706,
+      "hold": false
+    },
+    {
+      "file": "frame_0136.png",
+      "step": 741,
+      "hold": false
+    },
+    {
+      "file": "frame_0137.png",
+      "step": 778,
+      "hold": false
+    },
+    {
+      "file": "frame_0138.png",
+      "step": 817,
+      "hold": false
+    },
+    {
+      "file": "frame_0139.png",
+      "step": 857,
+      "hold": false
+    },
+    {
+      "file": "frame_0140.png",
+      "step": 900,
+      "hold": false
+    },
+    {
+      "file": "frame_0141.png",
+      "step": 945,
+      "hold": false
+    },
+    {
+      "file": "frame_0142.png",
+      "step": 992,
+      "hold": false
+    },
+    {
+      "file": "frame_0143.png",
+      "step": 1042,
+      "hold": false
+    },
+    {
+      "file": "frame_0144.png",
+      "step": 1094,
+      "hold": false
+    },
+    {
+      "file": "frame_0145.png",
+      "step": 1148,
+      "hold": false
+    },
+    {
+      "file": "frame_0146.png",
+      "step": 1205,
+      "hold": false
+    },
+    {
+      "file": "frame_0147.png",
+      "step": 1266,
+      "hold": false
+    },
+    {
+      "file": "frame_0148.png",
+      "step": 1329,
+      "hold": false
+    },
+    {
+      "file": "frame_0149.png",
+      "step": 1395,
+      "hold": false
+    },
+    {
+      "file": "frame_0150.png",
+      "step": 1464,
+      "hold": false
+    },
+    {
+      "file": "frame_0151.png",
+      "step": 1537,
+      "hold": false
+    },
+    {
+      "file": "frame_0152.png",
+      "step": 1614,
+      "hold": false
+    },
+    {
+      "file": "frame_0153.png",
+      "step": 1695,
+      "hold": false
+    },
+    {
+      "file": "frame_0154.png",
+      "step": 1779,
+      "hold": false
+    },
+    {
+      "file": "frame_0155.png",
+      "step": 1868,
+      "hold": false
+    },
+    {
+      "file": "frame_0156.png",
+      "step": 1961,
+      "hold": false
+    },
+    {
+      "file": "frame_0157.png",
+      "step": 2058,
+      "hold": false
+    },
+    {
+      "file": "frame_0158.png",
+      "step": 2161,
+      "hold": false
+    },
+    {
+      "file": "frame_0159.png",
+      "step": 2269,
+      "hold": false
+    },
+    {
+      "file": "frame_0160.png",
+      "step": 2382,
+      "hold": false
+    },
+    {
+      "file": "frame_0161.png",
+      "step": 2501,
+      "hold": false
+    },
+    {
+      "file": "frame_0162.png",
+      "step": 2625,
+      "hold": false
+    },
+    {
+      "file": "frame_0163.png",
+      "step": 2756,
+      "hold": false
+    },
+    {
+      "file": "frame_0164.png",
+      "step": 2893,
+      "hold": false
+    },
+    {
+      "file": "frame_0165.png",
+      "step": 3037,
+      "hold": false
+    },
+    {
+      "file": "frame_0166.png",
+      "step": 3189,
+      "hold": false
+    },
+    {
+      "file": "frame_0167.png",
+      "step": 3348,
+      "hold": false
+    },
+    {
+      "file": "frame_0168.png",
+      "step": 3514,
+      "hold": false
+    },
+    {
+      "file": "frame_0169.png",
+      "step": 3690,
+      "hold": false
+    },
+    {
+      "file": "frame_0170.png",
+      "step": 3873,
+      "hold": false
+    },
+    {
+      "file": "frame_0171.png",
+      "step": 4066,
+      "hold": false
+    },
+    {
+      "file": "frame_0172.png",
+      "step": 4269,
+      "hold": false
+    },
+    {
+      "file": "frame_0173.png",
+      "step": 4482,
+      "hold": false
+    },
+    {
+      "file": "frame_0174.png",
+      "step": 4705,
+      "hold": false
+    },
+    {
+      "file": "frame_0175.png",
+      "step": 4939,
+      "hold": false
+    },
+    {
+      "file": "frame_0176.png",
+      "step": 5185,
+      "hold": false
+    },
+    {
+      "file": "frame_0177.png",
+      "step": 5444,
+      "hold": false
+    },
+    {
+      "file": "frame_0178.png",
+      "step": 5715,
+      "hold": false
+    },
+    {
+      "file": "frame_0179.png",
+      "step": 6000,
+      "hold": false
+    },
+    {
+      "file": "frame_0180.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0181.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0182.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0183.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0184.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0185.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0186.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0187.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0188.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0189.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0190.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0191.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0192.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0193.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0194.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0195.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0196.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0197.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0198.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0199.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0200.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0201.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0202.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0203.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0204.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0205.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0206.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0207.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0208.png",
+      "step": 6000,
+      "hold": true
+    },
+    {
+      "file": "frame_0209.png",
+      "step": 6000,
+      "hold": true
+    }
+  ]
+}
